@@ -1,0 +1,87 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+}
+h1 {
+  font-size: 50px;
+  color: rgb(71, 71, 71);
+}
+h2 {
+  font-size: 25px;
+  color: rgb(71, 71, 71);
+}
+.text-align {
+  text-align: center;
+}
+.flexible-container {
+  display: flex;
+  margin-bottom: 100px;
+}
+.half-width {
+  width: 50%;
+  padding-left: 5%;
+}
+.half-width img {
+  width: 55%;
+}
+.link-button {
+  text-decoration: none;
+  background-color: rgb(209, 47, 115);
+  padding: 10px 30px;
+  color: white;
+  font-weight: 700;
+  border-radius: 25px;
+}
+.section-title {
+  text-align: center;
+}
+/* ----------
+courses style 
+----------- */
+.fa-star {
+  font-size: 12px;
+}
+.fa-star.filled {
+  color: #ffc014;
+}
+.fa-star.empty {
+  color: #aeaeae;
+}
+.mission-div-1 {
+  background-color: rgb(241, 240, 240);
+  margin-left: 2%;
+  margin-right: 2%;
+  border-radius: 5%;
+  box-shadow: 10px 10px gray;
+  height: 60%;
+  width: 30%;
+  padding-left: 50px;
+}
+.mission-div-2 {
+  background-color: rgb(241, 240, 240);
+  margin-left: 2%;
+  margin-right: 2%;
+  border-radius: 5%;
+  box-shadow: 10px 10px gray;
+  height: 60%;
+  width: 30%;
+  padding-left: 50px;
+}
+.mission-div-3 {
+  background-color: rgb(241, 240, 240);
+  margin-left: 2%;
+  margin-right: 2%;
+  border-radius: 5%;
+  box-shadow: 10px 10px gray;
+  height: 60%;
+  width: 30%;
+  padding-left: 50px;
+}
+.see-more {
+  color: palevioletred;
+  text-align: center;
+}
+.footer {
+  background-color: rgb(17, 21, 68);
+  color: white;
+}
