@@ -10,6 +10,28 @@ h2 {
   font-size: 25px;
   color: rgb(71, 71, 71);
 }
+.header {
+  overflow: hidden;
+  padding: 20px 10px;
+}
+.header a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 25px;
+  border-radius: 4px;
+}
+.header a:hover {
+  background-color: #ddd;
+}
+
+.header a.active {
+  background-color: dodgerblue;
+  color: white;
+}
 .text-align {
   text-align: center;
 }
