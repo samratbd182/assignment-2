@@ -69,7 +69,7 @@ courses style
 .fa-star.empty {
   color: #aeaeae;
 }
-.mission-div-1 {
+.div-1 {
   background-color: rgb(241, 240, 240);
   margin-left: 2%;
   margin-right: 2%;
@@ -79,7 +79,7 @@ courses style
   width: 30%;
   padding-left: 50px;
 }
-.mission-div-2 {
+.div-2 {
   background-color: rgb(241, 240, 240);
   margin-left: 2%;
   margin-right: 2%;
@@ -89,7 +89,7 @@ courses style
   width: 30%;
   padding-left: 50px;
 }
-.mission-div-3 {
+.div-3 {
   background-color: rgb(241, 240, 240);
   margin-left: 2%;
   margin-right: 2%;
@@ -104,6 +104,6 @@ courses style
   text-align: center;
 }
 .footer {
-  background-color: rgb(17, 21, 68);
-  color: white;
+  background-color: rgb(139, 180, 255);
+  color: black;
 }
